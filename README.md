@@ -1,7 +1,7 @@
-<h4><p align="center">ᴜᴀɴsᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝</p></h4>
+<h4><p align="center">•silent killer robot•</p></h4>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/749aea54ef254995a201e.jpg">
+  <img src="https://telegra.ph/file/a74cbac673e648efd19d0.jpg">
 </p>
 
 <p align="center">Cilik is a modular bot running on python3 with autobots theme and have a lot features.</p>
