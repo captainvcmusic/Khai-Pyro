@@ -7,7 +7,7 @@
 <p align="center">Cilik is a modular bot running on python3 with autobots theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/GreyCilik_bot"> <img src="https://telegra.ph/file/a74cbac673e648efd19d0.jpg" alt="Grey on Telegram" /> </a><br>
+<a href="http://t.me/khaisya_robot"> <img src="https://telegra.ph/file/a74cbac673e648efd19d0.jpg" alt="Grey on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.9.11-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://telegra.ph/file/a74cbac673e648efd19d0.jpg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
