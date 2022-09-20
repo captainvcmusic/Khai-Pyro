@@ -28,7 +28,7 @@ This Bot is Created by Cilik Project, If your kanging this without fork at least
 
 ### Contributors
 - [『TØNIC』 乂 ₭ILLΣR](https://github.com/Tonic990) : Prime Devs
-- [ Grey </> ](https://github.com/grey423) : Cilik Devs 
+- [ Grey </> ](https://github.com/captainvcmusic/Khai-Pyro) : Senpai Devs
 
 ### Credit
 - Cutiepii
